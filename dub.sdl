@@ -1,0 +1,5 @@
+name "spinners"
+description "Binding for libspinners an elegant terminal spinners"
+authors "XXIV"
+copyright "Copyright © 2023, XXIV"
+license "MIT"
